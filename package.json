@@ -1,0 +1,20 @@
+{
+  "name": "portal_noticias",
+  "version": "1.0.0",
+  "description": "Site de Notícias",
+  "homepage": "https://github.com/andresonsouza/curso-node#readme",
+  "bugs": {
+    "url": "https://github.com/andresonsouza/curso-node/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andresonsouza/curso-node.git"
+  },
+  "license": "ISC",
+  "author": "Andreson",
+  "type": "commonjs",
+  "main": "noticias.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
