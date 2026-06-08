@@ -10,3 +10,15 @@
 📚 **Curso:** [Curso Completo do Desenvolvedor NodeJS e MongoDB](https://www.udemy.com/course/curso-completo-do-desenvolvedor-nodejs/)  
 👨‍🏫 **Instrutor:** Jorge Sant'Ana
 
+## 🛠️ Tecnologias Utilizadas
+
+| Tecnologia | Descrição |
+|------------|------------|
+| **Node.js** | Ambiente de execução JavaScript no servidor |
+| **Express** | Um framework NodeJS para aplicações WEB |
+| **EJS** | Uma linguagem de modelagem para criação de páginas HTML utilizando JavaScript |
+| **Nodemon** | Um utilitário que reinicia automaticamente o servidor NodeJS quando houver qualquer alteração em nossos scripts |
+| **NPM** | Um gerenciador de pacotes JavaScript |
+| **MongoDB** | Banco de dados NoSQL orientado a documentos |
+| **Mongoose** | ODM (Object Data Modeling) para MongoDB com Node.js |
+
