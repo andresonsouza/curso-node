@@ -1,8 +1,8 @@
-var http = require('http');
+const http = require('node:http');
 
-var server = http.createServer(function (req, res) {
+const server = http.createServer(function (req, res) {
     
-    var categoria = req.url;
+    const categoria = req.url;
 
     if (categoria == '/tecnologia') {
         res.end("<html><body><h1>Noticias de Tecnologia</h1><p>Noticia 1</p><p>Noticia 2</p><p>Noticia 3</p></body></html>");
